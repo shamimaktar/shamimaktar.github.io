@@ -3,11 +3,6 @@
 
 # <center>MD. SHAMIM AKTAR</center>
 
-417/C, Shaheed Nazmul Ahsan Hall, Bangladesh Agricultural University, Mymensingh – 2202
-
-Cell Phone: +8801521310587, E-mail: [shamim.aktar.bau@gmail.com](mailto:shamim.aktar.bau@gmail.com)
-
-LinkedIn: [www.linkedin.com/in/mdshamimaktar](https://www.linkedin.com/in/mdshamimaktar/)
 
 | EDUCATION |
 | --- |
