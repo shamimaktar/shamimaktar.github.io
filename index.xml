@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Shamim&#39;s Ponderings</title>
+        <title>Shamim&#39;s Summaries</title>
         <link>https://shamimaktar.github.io/</link>
         <description>This is My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Feb 2022 13:09:37 &#43;0600</lastBuildDate>
             <atom:link href="https://shamimaktar.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
+    <title>A brief overview of the popular research streams in Animal Husbandry</title>
     <link>https://shamimaktar.github.io/first_post/</link>
     <pubDate>Mon, 07 Feb 2022 13:09:37 &#43;0600</pubDate>
     <author>Author</author>
     <guid>https://shamimaktar.github.io/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<p>Find out about the popular research areas in the animal sciences and the purpose of this blog</p>]]></description>
 </item></channel>
 </rss>
