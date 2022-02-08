@@ -7,15 +7,15 @@
 | EDUCATION |
 | --- |
 
-**B.Sc. in Animal Husbandry,** CGPA 3.424 out of 4.00 (until L4S1) 2017-
+**B.Sc. in Animal Husbandry,** CGPA 3.424 out of 4.00 (until L4S1) 2017 - Now
 
 Bangladesh Agricultural University, Mymensingh, Bangladesh
 
-**Higher Secondary Certificate (HSC),** GPA 5.00 out of 5.00 2015
+**Higher Secondary Certificate (HSC),** GPA 5.00 out of 5.00       2015
 
 Notre Dame College, Dhaka, Bangladesh
 
-**Secondary School Certificate (SSC),** GPA 5.00 out of 5.002013
+**Secondary School Certificate (SSC),** GPA 5.00 out of 5.00       2013
 
 Dinajpur Zilla School, Dinajpur, Bangladesh
 
