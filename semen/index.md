@@ -4,7 +4,7 @@
 
 
 
-Find out about the popular research areas in the animal sciences and the purpose of this blog
+Learn about the most important process in the animal reproduction industry
 
 <!--more-->
 
