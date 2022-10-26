@@ -7,7 +7,7 @@
 | EDUCATION |
 | --- |
 
-**B.Sc. in Animal Husbandry,** CGPA 3.424 out of 4.00 (until L4S1) 2017 - Now
+**B.Sc. in Animal Husbandry,** CGPA 3.438 out of 4.00  2017 - 2022
 
 Bangladesh Agricultural University, Mymensingh, Bangladesh
 
