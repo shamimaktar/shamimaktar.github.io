@@ -15,14 +15,34 @@
 	            
 	 examples - contains just that: data and parameter files 
 	            that should run out of the box after installation**
+
 	
-First, go to this [link](https://www.openagrar.de/servlets/MCRFileNodeServlet/openagrar_derivate_00022208/vce.zip "this link") and download the 53.24MB zip file.
+---
 
-Now, extract it in your computer and you will get these 3 folders (bin, doc, examples).
+**1.** First, go to this [link](https://www.openagrar.de/servlets/MCRFileNodeServlet/openagrar_derivate_00022208/vce.zip "this link") and download the 53.24MB zip file.
 
-Go to the **/bin** folder and rename **vce-Windows-x86_64-gfortran-6.0.2** to **vce6** and copy this file.
 
-Then go to C:/WIndows/System32/ folder and paste the **vce6** file here. Permit all system authorization when the prompt arrives.
+**2.** Now, extract it in your computer and you will get these 3 folders (bin, doc, examples).
+
+
+{{< figure src="/posts/vce/1e.jpg" title="vce6 folders (figure)" >}}
+
+
+**3.** Go to the **/bin** folder and rename **vce-Windows-x86_64-gfortran-6.0.2** to **vce6** and copy this file.
+
+
+
+{{< figure src="/posts/vce/2e.jpg" title="vce6 rename (figure)" >}}
+
+
+
+**4.** Then go to C:/Windows/System32/ folder and paste the **vce6** file here. Permit all system authorization when the prompt arrives.
+
+
+
+{{< figure src="/posts/vce/3e.jpg" title="vce6 install (figure)" >}}
+
+
 
 Congratulations, VCE version 6.0.2 is successfully installed.
 
