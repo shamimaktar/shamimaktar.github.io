@@ -3,15 +3,15 @@
         <title>All Posts - Shamim&#39;s Summaries</title>
         <link>https://shamimaktar.github.io/posts/</link>
         <description>All Posts | Shamim&#39;s Summaries</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 10 Jun 2022 16:31:03 &#43;0600</lastBuildDate><atom:link href="https://shamimaktar.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>A step-by-step workflow of semen processing in a conventional bull station in Bangladesh</title>
-    <link>https://shamimaktar.github.io/semen/</link>
-    <pubDate>Fri, 10 Jun 2022 16:31:03 &#43;0600</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Oct 2022 16:13:24 &#43;0600</lastBuildDate><atom:link href="https://shamimaktar.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>How to install VCE 6.0.2 on a Windows x86 64-bit machine</title>
+    <link>https://shamimaktar.github.io/vc6/</link>
+    <pubDate>Wed, 26 Oct 2022 16:13:24 &#43;0600</pubDate>
     <author>Md. Shamim Aktar</author>
-    <guid>https://shamimaktar.github.io/semen/</guid>
+    <guid>https://shamimaktar.github.io/vc6/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/bull-semen.jpg" referrerpolicy="no-referrer">
-            </div><p>Learn about the most important process in the animal reproduction industry</p>]]></description>
+                <img src="/fli.png" referrerpolicy="no-referrer">
+            </div>**This is the version6 of VCE a package for estimating (co)variance components by REML and Gibbs Sampling The vce6 directory contains 3 subdirectories: bin - contains executables for a number of computing platforms doc - contains the documentation in A4 and US Letter format examples - contains just that: data and parameter files that should run out of the box after installation**  First, go to this link and download the 53.]]></description>
 </item>
 <item>
     <title>A brief overview of the popular research streams in Animal Husbandry</title>
