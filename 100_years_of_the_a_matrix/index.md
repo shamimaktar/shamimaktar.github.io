@@ -6,13 +6,11 @@ In the year 1922, Sewall Wright first documented the idea of tracing paths to es
 The pictures below provide a glimpse of the after-effect of Wright's work over the past 100 years.
 
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQFn4MhzGbWEZQ/article-inline_image-shrink_1500_2232/0/1671735047482?e=1677110400&v=beta&t=tP2NjrgOTT8NFtYcMigC-Vw_eUiJLZi3wRmJQYEVeXo)
+{{< figure src="/posts/a_matrix/3A.jpg" title="Credits: Julius Van Der Werf (figure)" >}}
 
-<p style="text-align: center;">Credits: Julius Van Der Werf
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQF-EoLZdnjbzQ/article-inline_image-shrink_1500_2232/0/1671735087011?e=1677110400&v=beta&t=PNT4b9ycE7YOF85_dq0bvtBhVXB6UJEBgKWMT8ly6gg)
 
-<p style="text-align: center;">Credits: Harold(2014)
+{{< figure src="/posts/a_matrix/2A.jpg" title="Credits: Harold(2014) (figure)" >}}
 
 Today, R and Julia scripts can be written for calculating the A-matrix.
 
@@ -43,8 +41,6 @@ Credits: Austin Putz, Gota Morota
 
 GRM is the latest tool in GEBV estimation.
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/D5612AQEZUlr-PmH6Gg/article-inline_image-shrink_1500_2232/0/1671735216502?e=1677110400&v=beta&t=tj3vTxXfXbS9Lb_1pfWdAtuP2_b5g5OScvGaqg-mE7k)
-
-<p style="text-align: center;">Credits: Jiang(2019)
+{{< figure src="/posts/a_matrix/5A.jpg" title="Credits: Jiang(2019) (figure)" >}}
 
 As we can see, the ripple effect of Wright's work is very large and still going strong. I know, I have missed many points regarding the topic. Do share your thoughts on the current state of research in this area and what the future trends may be.
