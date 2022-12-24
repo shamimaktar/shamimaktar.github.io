@@ -6,7 +6,7 @@ In the year 1922, Sewall Wright first documented the idea of tracing paths to es
 The pictures below provide a glimpse of the after-effect of Wright's work over the past 100 years.
 
 
-{{< figure src="/posts/a_matrix/3A.jpg" title="Credits: Julius Van Der Werf (figure)" >}}
+{{< figure src="/posts/a_matrix/3A.png" title="Credits: Julius Van Der Werf (figure)" >}}
 
 
 
