@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BLUP - Tag - Shamim&#39;s Summaries</title>
+        <link>https://shamimaktar.github.io/tags/blup/</link>
+        <description>BLUP - Tag - Shamim&#39;s Summaries</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 28 Jan 2023 16:13:24 &#43;0600</lastBuildDate><atom:link href="https://shamimaktar.github.io/tags/blup/" rel="self" type="application/rss+xml" /><item>
+    <title>Single Trait Analysis with known/assumed variance components using BLUPF90&#43;</title>
+    <link>https://shamimaktar.github.io/blupf90_single_trait_mme_solver/</link>
+    <pubDate>Sat, 28 Jan 2023 16:13:24 &#43;0600</pubDate>
+    <author>Md. Shamim Aktar</author>
+    <guid>https://shamimaktar.github.io/blupf90_single_trait_mme_solver/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blupf90.jpg" referrerpolicy="no-referrer">
+            </div>Estimation of breeding values is at the core of Animal Breeding for genetic improvement of livestock. The BLUP methodology solving MME bt Henderson is standard in this regard. BLUPF90+ is a combination of programs with which we can solve MME for simultaneously getting BLUE and BLUP values of animals for trait/s.
+ BLUPF90&#43;   In this example, we will try to solve the single trait (Pre weaning weight gain, WWG) with fixed effect (sex) and random effect (animal) from Chapter 3 data on animal model of Mrode(2014).]]></description>
+</item>
+</channel>
+</rss>
