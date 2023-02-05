@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BLUPF90&#43; - Tag - Shamim&#39;s Summaries</title>
+        <link>https://shamimaktar.github.io/tags/blupf90&#43;/</link>
+        <description>BLUPF90&#43; - Tag - Shamim&#39;s Summaries</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Feb 2023 16:13:24 &#43;0600</lastBuildDate><atom:link href="https://shamimaktar.github.io/tags/blupf90&#43;/" rel="self" type="application/rss+xml" /><item>
+    <title>Variance component estimation with AIREMLF90 for Single Trait Analysis</title>
+    <link>https://shamimaktar.github.io/airemlf90_vce/</link>
+    <pubDate>Sun, 05 Feb 2023 16:13:24 &#43;0600</pubDate>
+    <author>Md. Shamim Aktar</author>
+    <guid>https://shamimaktar.github.io/airemlf90_vce/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/airemlf90.jpg" referrerpolicy="no-referrer">
+            </div>In the previous post, I tried to show how to solve MME to derive BLUP values with assumed variance components. We need to estimate actual variance components of the animals under study in practical application. Especially, if:
+ we are interested in a new trait, from which no parameters are available variances and covariances might have changed over time considerable changes have occurred in a population e.g. due to recent importations.]]></description>
+</item>
+</channel>
+</rss>
