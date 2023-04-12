@@ -7,28 +7,22 @@
 | EDUCATION |
 | --- |
 
-**M.Sc. in Breeding and Genetics,**                         2022 - 2024
+**M.Sc. in Animal Breeding and Genetics**, 2022 - 2024
 
-Bangladesh Agricultural University, Mymensingh, Bangladesh
+Bangladesh Agricultural University
 
-**B.Sc. in Animal Husbandry,** CGPA 3.438 out of 4.00       2017 - 2022
+**B.Sc. in Animal Husbandry**, CGPA 3.438/4.00         2017 - 2022
 
-Bangladesh Agricultural University, Mymensingh, Bangladesh
+Bangladesh Agricultural University
 
-**Higher Secondary Certificate (HSC),** GPA 5.00 out of 5.00       2015
 
-Notre Dame College, Dhaka, Bangladesh
-
-**Secondary School Certificate (SSC),** GPA 5.00 out of 5.00       2013
-
-Dinajpur Zilla School, Dinajpur, Bangladesh
 
 | HONORS/ AWARDS |
 | --- |
 
 [**Andrew F. Giesen III Poultry Science Foundation Undergraduate Internship Program 2021**](https://poultryscience.org/Students-Internships-Andrew-F-Giesen)
 
-_During the pandemic, I worked on a small project focusing on the effects of L-ascorbic acid on the internal and external quality characteristics of egg and was selected for [_this award_](https://poultryscience.org/files/galleries/2021_PSA_Foundation_Award_Recipients.pdf) _by the PSA._
+During the pandemic, I worked on a small project focusing on the effects of L-ascorbic acid on the internal and external quality characteristics of egg and was selected for [_this award_](https://poultryscience.org/files/galleries/2021_PSA_Foundation_Award_Recipients.pdf) _by the PSA._
 
 Poultry Science Association
 
@@ -62,11 +56,9 @@ Played various roles such as fundraising, organizing and leading the team member
 - Seminar on higher studies in the USA
 - Workshop on CV writing
 - Evidence-based career development
-- Entrepreneurship Awareness Program sponsored by the Dutch government
-- Trailblazer 1.0: a 3-month long Business Plan Competition sponsored by the Dutch government and University of Twente
 - Active Citizens Youth Leadership Training by British Council
 
-**Campus Ambassador,** August 2018- Present
+**Campus Ambassador,** August 2018- December 2019
 
 _HigherStudyAbroad (HSA is the largest hub of Bangladeshis studying abroad)_
 
@@ -79,7 +71,7 @@ _Bangladesh Biology Olympiad_
 
 Volunteered to arrange the National Biology Olympiad in our region where 2200+ high school and middle school students participated. I was responsible for maintaining the help desk and managing the food allocation.
 
-**Co-Leader,** January 2021- Present
+**Co-Leader,** January 2021- December 2022
 
 _Poultry Professionals Bangladesh-BAU Branch_
 
@@ -90,7 +82,7 @@ Maintaining liaison between BAU and PPB main branch. Organizing events of behalf
 
 **Language:** **Bengali**(Mother Tongue),**English** (Full professional proficiency)
 
-**Computer:** OS (Windows and Linux), MS Office, SPSS, R (preliminary level)
+**Computer:** OS (Windows and Linux), MS Office, Minitab, R, Julia, BLUPF90 (preliminary level)
 
 | CERTIFICATIONS |
 | --- |
@@ -109,6 +101,6 @@ Maintaining liaison between BAU and PPB main branch. Organizing events of behalf
 | PROFESSIONAL AFFILIATION |
 | --- |
 
-**Undergraduate Student Member,** Poultry Science Association (PSA)
+**Graduate Student Member,** Poultry Science Association (PSA)
 
  
