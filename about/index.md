@@ -6,7 +6,8 @@
 | RESEARCH INTERESTS |
 | --- |
 
-**Primary  :** Quantitaive Genetics and Genomics, Statistical Genetics
+**Primary  :** Quantitaive Genetics and Genomics, Statistical Genetics   
+
 **Secondary:** Phenomics, Machine Learning and Computer Vision applied in precision breeding and PLF 
 
 | EDUCATION |
