@@ -3,11 +3,16 @@
 
 # <center>MD. SHAMIM AKTAR</center>
 
+| RESEARCH INTERESTS |
+| --- |
+
+**Primary  :** Quantitaive Genetics and Genomics, Statistical Genetics
+**Secondary:** Phenomics, Machine Learning and Computer Vision applied in precision breeding and PLF 
 
 | EDUCATION |
 | --- |
 
-**M.Sc. in Animal Breeding and Genetics**, 2022 - 2024
+**M.Sc. in Animal Breeding and Genetics**, (ongoing)             2022 - 2024
 
 Bangladesh Agricultural University
 
@@ -80,7 +85,7 @@ Maintaining liaison between BAU and PPB main branch. Organizing events of behalf
 | SKILL |
 | --- |
 
-**Language:** **Bengali**(Mother Tongue),**English** (Full professional proficiency)
+**Language:** **Bengali**(Mother Tongue), **English** (Full professional proficiency)
 
 **Computer:** OS (Windows and Linux), MS Office, Minitab, R, Julia, BLUPF90 (preliminary level)
 
